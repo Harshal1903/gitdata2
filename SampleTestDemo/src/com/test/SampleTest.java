@@ -12,6 +12,7 @@ public static void main(String[] args) {
 	al.add(30);
 	al.add(40);
 	al.add(60);
+	al.add(80);
 	al.add(100);
 	System.out.println(al);
 
